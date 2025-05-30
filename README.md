@@ -1,4 +1,8 @@
 # 🧠 Customer Churn Prediction & Retention Strategy
+[![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
+![Last Updated](https://img.shields.io/badge/last%20update-May%202025-orange)
+![Status](https://img.shields.io/badge/status-active-success)
+[![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange)](https://jupyter.org/)
 
 ## 📌 Overview
 This project uses predictive modeling, statistical testing, and advanced analytics to identify customers at risk of churn and propose data-driven retention strategies. It simulates a real-world B2C scenario such as telecom, SaaS, or financial services.
