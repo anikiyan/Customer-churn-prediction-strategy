@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+.ipynb_checkpoints/
+models/
+data/processed/
+reports/figures/
