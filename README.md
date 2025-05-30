@@ -26,7 +26,7 @@ This project uses predictive modeling, statistical testing, and advanced analyti
 ## 🗂️ Project Structure
 
 ```
-├── data/ 			# Datasets
+├── data/ 		# Datasets
 ├── notebooks/ 		# Jupyter notebooks for analysis & modeling
 ├── scripts/ 		# Python scripts for processing & modeling
 ├── dashboards/ 	# Optional dashboard app
