@@ -2,7 +2,6 @@
 
 [![Project Status](https://img.shields.io/badge/status-Completed-brightgreen)](https://github.com/anikiyan/Customer-churn-prediction-strategy)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)](https://www.python.org/)
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-link.com) <!-- Replace this with your actual app URL if deployed -->
 
 ## 📌 Overview
 
@@ -61,8 +60,8 @@ This project identifies high-risk customers and evaluates which targeted campaig
 
 ## 🚀 Live Dashboard
 
-> 🧪 You can try the interactive dashboard here:  
-[Streamlit Demo](https://your-streamlit-app-link.com) <!-- Replace once deployed -->
+> 🧪 You can try the interactive dashboard here, (Request if you would like)
+
 
 ---
 
