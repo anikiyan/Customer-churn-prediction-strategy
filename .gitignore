@@ -5,5 +5,4 @@ __pycache__/
 .env.*
 .ipynb_checkpoints/
 models/
-data/processed/
 reports/figures/
