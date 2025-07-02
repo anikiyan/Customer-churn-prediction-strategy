@@ -1,13 +1,15 @@
 # 🧠 Customer Churn Prediction & Retention Strategy
-[![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
-![Last Updated](https://img.shields.io/badge/last%20update-May%202025-orange)
-![Status](https://img.shields.io/badge/status-active-success)
-[![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange)](https://jupyter.org/)
+
+[![Project Status](https://img.shields.io/badge/status-Completed-brightgreen)](https://github.com/anikiyan/Customer-churn-prediction-strategy)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)](https://www.python.org/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-link.com) <!-- Replace this with your actual app URL if deployed -->
 
 ## 📌 Overview
-This project uses predictive modeling, statistical testing, and advanced analytics to identify customers at risk of churn and propose data-driven retention strategies. It simulates a real-world B2C scenario such as telecom, SaaS, or financial services.
+
+A full-cycle machine learning project that uses predictive modeling, statistical testing, and advanced analytics to identify at-risk customers and recommend targeted retention strategies. Simulates a real-world B2C scenario such as telecom, SaaS, or financial services.
 
 ## 🎯 Objectives
+
 - Predict which customers are most likely to churn in the next 30 days
 - Design and evaluate targeted intervention strategies
 - Communicate actionable insights to product and marketing teams
@@ -18,9 +20,11 @@ This project uses predictive modeling, statistical testing, and advanced analyti
 - ML Models: Logistic Regression, XGBoost, LSTM
 - Time-series forecasting with ARIMA
 - A/B testing for retention campaign effectiveness
-- Streamlit dashboard
+- Streamlit dashboard for executive reporting  
+
 
 ## 🧰 Tech Stack
+
 - **Languages:** Python, SQL
 - **Libraries:** scikit-learn, XGBoost, TensorFlow, statsmodels, SHAP, seaborn
 - **Tools:** Jupyter, Streamlit, Power BI
@@ -31,26 +35,42 @@ This project uses predictive modeling, statistical testing, and advanced analyti
 
 ```
 ├── data/ 		# Datasets
-├── notebooks/ 		# Jupyter notebooks for analysis & modeling
-├── scripts/ 		# Python scripts for processing & modeling
-├── dashboards/ 	# Optional dashboard app
+├── notebooks/ 		# Exploratory analysis and modeling notebooks
+├── scripts/ 		# Python modules and training scripts
+├── dashboards/ 	# Streamlit app and configuration
 ├── reports/ 		# Insights, charts, and exportable PDFs
+└── README.md
 ```
 
 
 ## 📈 Sample Use Case
-> A telecom company wants to reduce churn by 10% next quarter. This project helps identify high-risk customers and evaluate which retention campaigns statistically reduce churn through experimentation and uplift modeling.
 
-## ✅ Next Steps
-- [x] Define scope and goals
-- [x] Load and inspect data
-- [x] Conduct EDA and feature generation
-- [x] Train baseline and advanced ML models
-- [x] Evaluate A/B test outcomes
-- [x] Build dashboard/report for stakeholders
+> A telecom company wants to reduce churn by 10% next quarter.  
+This project identifies high-risk customers and evaluates which targeted campaigns statistically reduce churn, using uplift modeling and A/B testing.
+
+##  Next Steps
+- [✅] Define scope and goals
+- [✅] Load and inspect data
+- [✅] Conduct EDA and feature generation
+- [✅] Train baseline and advanced ML models
+- [✅] Evaluate A/B test outcomes
+- [✅] Build dashboard/report for stakeholders
 
 ---
 
-## 🧑‍💻 Author
+
+## 🚀 Live Dashboard
+
+> 🧪 You can try the interactive dashboard here:  
+[Streamlit Demo](https://your-streamlit-app-link.com) <!-- Replace once deployed -->
+
+---
+
+
+## 👤 Author
+
 **Ashkan Nikiyan**  
-Senior Data Scientist 
+Senior Data Scientist – ML & AI for Predictive Systems  
+[GitHub](https://github.com/anikiyan) • [LinkedIn](https://www.linkedin.com/in/ashkan-nikiyan-ph-d-gda-ids-24aa1012b/)
+
+---
